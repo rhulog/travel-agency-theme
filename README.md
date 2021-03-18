@@ -22,7 +22,7 @@ Create a Travel Agency Theme using Materialize CSS
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://rhulog.github.io/travel-agency-theme/
 
 ## My process
 I watched Brad (Traversy Media) create his site and followed along. This was a practice site to hone in on Materialize CSS.
